@@ -4,4 +4,4 @@ Projects and coursework from the first semester.
 
 ## Subjects
 
-- [Introduction to Programming (Wstęp do programowania)](./introduction-to-programming)
+- [Introduction to Programming](./introduction-to-programming) (Wstęp do programowania)

@@ -1,6 +1,6 @@
 # Object-Oriented Programming (Programowanie obiektowe)
 
-Projects and exercises for the Object-Oriented Programming course.
+This course covers basic concepts and issues in object-oriented programming: classes, objects, encapsulation, inheritance, and polymorphism. It also introduces the fundamentals of object-oriented design and formalisms for documenting object-oriented projects and programs.
 
 ## Projects
 
