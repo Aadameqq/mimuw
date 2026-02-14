@@ -5,3 +5,4 @@ This course covers basic concepts and issues in object-oriented programming: cla
 ## Projects
 
 - [matrix-slices](./matrix-slices)
+- [lotto](./lotto)
