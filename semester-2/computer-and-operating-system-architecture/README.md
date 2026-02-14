@@ -4,5 +4,6 @@ Structure and operating principles of modern computers, low-level programming, a
 
 ## Projects
 
+- [moore-machines](./moore-machines)
 - [nsqrt](./nsqrt)
 - [freverse](./freverse)
