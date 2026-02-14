@@ -11,4 +11,4 @@ A comprehensive exploration of the Python programming language and its ecosystem
 
 ## Projects
 
-*(Add project folders here)*
+**Note:** Projects for this course will be published here after the conclusion of the current semester.
