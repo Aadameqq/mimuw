@@ -4,4 +4,4 @@ Structure and operating principles of modern computers, low-level programming, a
 
 ## Projects
 
-*(Add project folders here)*
+- [nsqrt](./nsqrt)
