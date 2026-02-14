@@ -1,1 +1,1 @@
-// Provided by the teacher
+// File provided as part of the assignment.

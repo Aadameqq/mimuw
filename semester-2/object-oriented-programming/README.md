@@ -4,4 +4,4 @@ This course covers basic concepts and issues in object-oriented programming: cla
 
 ## Projects
 
-*(Add project folders here)*
+- [matrix-slices](./matrix-slices)
