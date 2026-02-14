@@ -5,3 +5,4 @@ Structure and operating principles of modern computers, low-level programming, a
 ## Projects
 
 - [nsqrt](./nsqrt)
+- [freverse](./freverse)

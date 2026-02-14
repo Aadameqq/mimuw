@@ -13,6 +13,7 @@ $$Q^2 \le X < (Q+1)^2$$
 - **Input/Output:** Handles arbitrarily large integers (bit width $n$ divisible by 64, up to 256,000 bits).
 - **Data Representation:** Numbers are stored as arrays of `uint64_t` in little-endian order.
 - **Algorithm:** Uses an iterative bit-by-bit calculation method, similar to the long division algorithm for square roots, optimizing for low-level memory operations.
+- **Optimization Goal:** Prioritized minimizing the binary code size (byte count) over runtime performance.
 
 ## What I Learned
 
@@ -20,3 +21,4 @@ $$Q^2 \le X < (Q+1)^2$$
 - Managing memory and manipulating pointers passed from C.
 - Handling multi-precision arithmetic for arbitrarily large integers.
 - Optimizing computation using CPU registers and carry flags.
+- Techniques for minimizing binary code size, prioritizing compactness over execution speed.
