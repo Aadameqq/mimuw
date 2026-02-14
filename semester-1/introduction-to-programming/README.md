@@ -4,4 +4,6 @@ A fundamental course introducing the field of computer science, aimed at familia
 
 ## Projects
 
-*(Add project folders here)*
+- [set](./set)
+- [rubiks-cube](./rubiks-cube)
+- [sokoban](./sokoban)
