@@ -29,3 +29,6 @@ Welcome to the collection of my university projects. This repository contains co
 ### Assembly (x86-64)
 - [nsqrt](./semester-2/computer-and-operating-system-architecture/nsqrt) (Computer and Operating System Architecture)
 - [freverse](./semester-2/computer-and-operating-system-architecture/freverse) (Computer and Operating System Architecture)
+
+### Python
+- [Wiki Scraper](./semester-3/python-language-course/wiki-scraper) (Python Language Course)
