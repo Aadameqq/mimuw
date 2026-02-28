@@ -4,4 +4,4 @@ Basic problems and techniques of concurrent and distributed system programming. 
 
 ## Projects
 
-**Note:** Projects for this course will be published here after the conclusion of the current semester.
+- [Factory](./factory)

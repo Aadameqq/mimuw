@@ -21,6 +21,7 @@ Welcome to the collection of my university projects. This repository contains co
 - [Rubik's Cube](./semester-1/introduction-to-programming/rubiks-cube) (Introduction to Programming)
 - [Sokoban](./semester-1/introduction-to-programming/sokoban) (Introduction to Programming)
 - [Moore Machines](./semester-2/computer-and-operating-system-architecture/moore-machines) (Computer and Operating System Architecture)
+- [Factory](./semester-3/concurrent-programming/factory) (Concurrent Programming)
 
 ### Java
 - [Matrix Slices](./semester-2/object-oriented-programming/matrix-slices) (Object-Oriented Programming)
